@@ -1,3 +1,4 @@
+package VsCodeDemo;
 import java.util.Scanner;
 
 public class Demo {
