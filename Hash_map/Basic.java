@@ -1,12 +1,9 @@
 // Source code is decompiled from a .class file using FernFlower decompiler.
 package Hash_map;
-
 import java.util.Scanner;
 
 public class Basic {
-    public Basic() {
-    }
-
+  
     public static void main(String[] var0) {
         int[] var1 = new int[] { 34, 1, 6, 8, 2, 1, 4, 1 };
         Scanner var2 = new Scanner(System.in);
