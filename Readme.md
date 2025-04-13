@@ -26,7 +26,7 @@ It is designed for learning, practice, and interview preparation.
 ## 🛠️ Tech Stack
 
 - **Language**: Java ☕
-- **IDE**: VS Code / IntelliJ
+- **IDE**: VS Code / Eclipse
 - **Tools**: Git & GitHub
 
 ---
@@ -35,7 +35,7 @@ It is designed for learning, practice, and interview preparation.
 
 - **Name**: Muhammad Soman  
 - **University**: Iqra University, Karachi  
-- **Email**: your-email@example.com  
+- **Email**: MuhammadSomansoman02@gmail.com 
 - **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
